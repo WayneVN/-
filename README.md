@@ -28,7 +28,7 @@
 
 > 作品:
 > ---
-> react  www.joudou.com (独立开发);
+> react  www.joudou.com (pc打开 独立开发);
 > backbone http://www.obgy.cn/ (独立开发)
 
 > git:
